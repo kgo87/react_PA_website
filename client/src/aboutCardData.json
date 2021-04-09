@@ -1,0 +1,26 @@
+{
+    "mike": {
+        "name": "Mike Brown",
+        "email": "mailto:Michael.Brown31@jacobs.com",
+        "linkedin": "https://www.linkedin.com/in/michael-brown-76a41845/",
+        "image": "./images/mike.jpeg"
+    },
+    "steve": {
+        "name": "Steve Burgett",
+        "email": "mailto:Steve.Burgett@jacobs.com",
+        "linkedin": "https://www.linkedin.com/in/steveburgettphd/",
+        "image": "./images/steve.jpeg"
+    },
+    "kat": {
+        "name": "Kat Gomozova",
+        "email": "kateryna.gomozova@jacobs.com",
+        "linkedin": "https://www.linkedin.com/in/kgomozova",
+        "image": "./images/kat.png"
+    },
+    "alex": {
+        "name": "Alex Mahrou ",
+        "email": "mailto:Alex.Mahrou@jacobs.com",
+        "linkedin": "https://www.linkedin.com/in/linkedalex/",
+        "image": "./images/steve.jpeg"
+    }
+}
