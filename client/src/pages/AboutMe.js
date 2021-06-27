@@ -13,13 +13,13 @@ function AboutMe() {
                 <Row>
                     <Col>
                         <header>
-                            <h1>Predictive Analytics CoP</h1>
+                            <h1 style={{ color: "rgb(51,51,51)", "text-align": "center", margin: "20px" }}>Predictive Analytics CoP</h1>
                         </header>
                     </Col>
                 </Row>
                 <div id="horizontal-line" />
                 <Row>
-                    <Col lg={6}>
+                    <Col xl={8}>
                         <Carousel>
                             <Carousel.Item interval={3000}>
                                 <img
@@ -57,13 +57,19 @@ function AboutMe() {
                         </Carousel>
 
                     </Col>
-                    <Col lg={6}>
+                    <Col xl={4}>
                         <p>
                             Predictive Analytics CoP falls under Intelligent Systems umbrella.
-                            It includes areas of Data Science, Visualization, Automation, Data Engineering and Analytics.
-                            It overlaps with Machine Learning, IoT and Optimization.
-                            Focuses on determining future values or probable future outcome for an event or a
-                            likelihood of the situation ocurring based on the current and historical data.
+                            It includes the following areas: </p>
+                        <ul>
+                            <li>Data Science</li>
+                            <li>Visualization</li>
+                            <li>Data Engineering</li>
+                            <li>Analytics</li>
+                        </ul>
+                        <p> It overlaps with Machine Learning, IoT and Optimization.
+                        Focuses on determining future values or probable future outcome for an event or a
+                        likelihood of the situation ocurring based on the current and historical data.
                   </p>
                     </Col>
                 </Row>

@@ -19,7 +19,7 @@ class Projects extends Component {
               <Row>
                   <Col lg={12}>
                       <div className="box">
-                          <h1 style={{"text-align": "center"}}>My Projects</h1>
+                          <h1 style={{"text-align": "center"}}>Projects</h1>
                           <br></br>
                           <Row style={{"align-content": "center"}}>
                               {this.state.projects.map(project => (
